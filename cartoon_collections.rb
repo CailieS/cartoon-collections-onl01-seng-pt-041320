@@ -11,9 +11,11 @@ end
 
 def long_planeteer_calls(long_planeteer_calls)
   long_planeteer_calls.each do |call|
-end
-  
-end
+   if call.length > 4 
+     return true 
+  end
+  end
+ end
 
 def find_the_cheese(cheese)
   cheese = ["cheddar", "gouda", "camembert"]
