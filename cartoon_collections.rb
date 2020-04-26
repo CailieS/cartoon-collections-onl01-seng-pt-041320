@@ -22,4 +22,3 @@ def find_the_cheese(cheese)
   cheese_types.include
 end
 end
-end
