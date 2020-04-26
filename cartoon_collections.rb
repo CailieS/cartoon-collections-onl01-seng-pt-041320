@@ -10,7 +10,7 @@ def summon_captain_planet(planeteer)
 end
 
 def long_planeteer_calls(long_planeteer_calls)
-  long_planeteer_calls = []
+  
   
 end
 
